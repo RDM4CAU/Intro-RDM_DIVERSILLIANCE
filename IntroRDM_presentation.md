@@ -1946,10 +1946,6 @@ What about relevant guidelines at Kiel University?
 ## DMP templates
 {{0-1}}
 ***********
-<div style="width: 20%; float:right">
-![working](..\images\working.png)
-</div>
-
 So, how to start...? Use templates!
 ---
 
@@ -1957,10 +1953,6 @@ So, how to start...? Use templates!
 
 {{1-2}}
 ***********
-<div style="width: 20%; float:right">
-![working](..\images\working.png)
-</div>
-
 DMP Templates Examples
 ---
 
@@ -2011,10 +2003,6 @@ Templates based on the FAIR-Principles
 {{0}}
 ***********
 **Generic DMP-Tools**
-
-<div style="width: 20%; float:right">
-![working](../DMP/images/working.png)
-</div>
 
 [Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
 
