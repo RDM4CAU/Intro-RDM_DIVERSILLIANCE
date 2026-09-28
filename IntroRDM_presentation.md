@@ -2048,7 +2048,7 @@ title="working"
 onclick="alert('Individual work');"
 -->
 >
->Download the CAU template for data management plans: [CAU\_DMP\_Template](https://www.fdm.uni-kiel.de/en/services/materials?set_language=en) <A HREF="sources\2026-06-02_diversilience-dmp-template.docx" download>average_d.xlsx</A>
+>Download the CAU template for data management plans: [CAU\_DMP\_Template](sources\2026-06-02_diversilience-dmp-template.docx) <A HREF="sources\2026-06-02_diversilience-dmp-template.docx" download>DMP-Template</A>
 >
 >Have a look at the template and try to sketch out a DMP for your research project.
 >
