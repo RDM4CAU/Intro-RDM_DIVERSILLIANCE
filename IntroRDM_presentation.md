@@ -2232,9 +2232,9 @@ onclick="alert('Individual work');"
 
 # Take-Away Messages
 
-> Practical Take-Away Messages
+>[!IMPORTANT] Practical Take-Away Messages
 
-1. <p style="color:#9a047f">**Document your data**</p>
+>1. <p style="color:#9a047f">**Document your data**</p>
 
 {{1-2}}
 ************
@@ -2246,7 +2246,7 @@ onclick="alert('Individual work');"
 
 *************
 
-2. <p style="color:#9a047f">**Formats**</p>
+>2. <p style="color:#9a047f">**Formats**</p>
 
 {{2-3}}
 ************
@@ -2262,7 +2262,7 @@ onclick="alert('Individual work');"
 
 *************
 
-3. <p style="color:#9a047f">**Storage**</p>
+>3. <p style="color:#9a047f">**Storage**</p>
 
 {{3-4}}
 **********
@@ -2280,7 +2280,7 @@ onclick="alert('Individual work');"
 
 ************
 
-4. <p style="color:#9a047f">**Publication**</p>
+>4. <p style="color:#9a047f">**Publication**</p>
 
 {{4-5}}
 ************
@@ -2302,7 +2302,7 @@ onclick="alert('Individual work');"
 
 ************
 
-5. <p style="color:#9a047f">**Licensing**</p>
+>5. <p style="color:#9a047f">**Licensing**</p>
 
 {{5-6}}
 **************
