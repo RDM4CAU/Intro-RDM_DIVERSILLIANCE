@@ -1791,9 +1791,6 @@ What is a data management plan?
 
 ### Data description
 
-{{0}}
-***********
-
 **Type of research data**
 
 * Which data types & formats are reused or generated?
@@ -1892,10 +1889,10 @@ What is a data management plan?
 
 >[!IMPORTANT]Always know the guidelines and requirements of your funding organisation!
 
-{{1}}
-***********
+---
 
-Here is a list of some guidelines and requirements. 
+List of some guidelines and requirements
+---
 
 **Always check your project specific requirements!** 
 
@@ -1950,7 +1947,7 @@ What about relevant guidelines at Kiel University?
 {{0-1}}
 ***********
 <div style="width: 20%; float:right">
-![working](../images/working.png)
+![working](..\images\working.png)
 </div>
 
 So, how to start...? Use templates!
@@ -1961,10 +1958,10 @@ So, how to start...? Use templates!
 {{1-2}}
 ***********
 <div style="width: 20%; float:right">
-![working](../images/working.png)
+![working](..\images\working.png)
 </div>
 
-DMP Templates
+DMP Templates Examples
 ---
 
 * [CAU-template](https://www.datamanagement.uni-kiel.de/de/service/materialien)
@@ -1979,7 +1976,7 @@ DMP Templates
 
 ---
 
-DMP Examples
+Filled DMP Examples
 ---
 
 * [DFG Sample (CMS / HU Berlin)](https://cms.hu-berlin.de/de/ueberblick/projekte/dataman/muster-dmp-dfg)
@@ -1996,20 +1993,18 @@ DMP Examples
 Templates based on the Research Data Lifecycle
 ---
 
-<img src="../DMP/images/rdm-lifecycle.png" alt="rdm-lifecycle" width="500" align="right">
-
 * [DFG Checklist](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf)
 
 * [Science Europe Template (engl.)](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
 
 ---
 
-**Templates based on the FAIR-Principles**
-
-<img src="../DMP/images/fair.png" alt="rdm-lifecycle" width="500" align="right">
+Templates based on the FAIR-Principles
+---
 
 * [EU Horizon Europe-Template](https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx)
 
+***********
 
 ## DMP tools
 
